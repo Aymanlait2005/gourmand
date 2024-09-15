@@ -1,0 +1,206 @@
+*{
+    transition: all 0.2s ease-in-out;
+}
+body{
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+a :hover{
+  text-decoration: solid red 2px;
+    color: black;
+}
+
+.entre{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+    height: 50px;
+    background-attachment: fixed;
+}
+
+.project{
+    background-image: url(n2.webp);
+    height: 720px;
+}
+
+button.dr{
+    color: white;
+    height: 30px;
+    width: 180px;
+    border-radius: 30px;
+    background-color: brown;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button.dr :hover{
+    transform: scale(1.05);
+    color: white;
+    height: 30px;
+    width: 180px;
+    border-radius: 30px;
+    background-color: brown;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bt{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#photos:hover{
+    transform: scale(1.2);
+}
+
+.dd{
+    color: white;
+    height: 30px;
+    width: 150px;
+    border-radius: 30px;
+    background-color: brown;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.dd:hover{
+    transform: scale(1.05);
+    color: white;
+    height: 30px;
+    width: 150px;
+    border-radius: 30px;
+    background-color: brown;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ph1{
+    height: 250px;
+    width: 250px;
+}
+.minph{
+    display: flex;
+    margin-left: 200px;
+    margin-right: 200px;
+    justify-content: space-around;
+
+}
+.r1{
+    margin-left: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.r11{
+    margin-left: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.projet1{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+.ph2{
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.911);
+    height: 450px;
+}
+.ww{
+    margin-top: 80px;
+    width: 200px;
+    background-color: goldenrod;
+    border-radius: 20px;
+    height: 35px;
+}
+.ww:hover{
+    margin-top: 80px;
+    width: 200px;
+    background-color: goldenrod;
+    border-radius: 20px;
+    height: 35px;
+    transform: scale(1.2);
+}  
+.r11:hover:hover{
+    margin-left: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    transform: scale(1.2);
+
+}
+.OO{
+    background-color: beige;
+    width: 250px;
+    height: 200px;
+    margin-inline: 20px;
+    border-radius: 20px;
+    
+}
+.div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-self: center;
+}
+.div1{
+    
+    display: flex;
+}
+B{
+    
+margin-inline: 20px;
+}
+.dddd{
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 150px;
+}
+.OO:hover{
+    background-color: beige;
+    width: 250px;
+    height: 200px;
+    margin-inline: 20px;
+    border-radius: 20px;
+    transform: scale(1.1);
+
+}
+.fain{
+    background-color: black;
+}
+span{
+    width: 100vw;
+    height: 3px;
+    display: flex;
+    border-top:  5px solid white ;
+    margin-inline: 20px;
+
+}
+.nase1{
+    width: 500px;
+    
+}
+.nb{
+    margin-left: 40px;
+    color: white;
+    
+}
+b{
+    margin-left: 0;
+}
+.nase{
+    display: flex;
+}
+.nb:active{
+    transform: scale(1.1);
+}
